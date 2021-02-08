@@ -1,6 +1,6 @@
 <h1 align="center"> Empresa Insurance All </h1> 
 
-<img align="center" src="https://github.com/brunalimap/health_insurance_cross_sell/blob/master/img/43025.jpg">
+<img width='400px' align="center" src="https://github.com/brunalimap/health_insurance_cross_sell/blob/master/img/43025.jpg">
 <a href='https://br.freepik.com/vetores/carro'>Carro vetor criado por rawpixel.com - br.freepik.com</a>
 
 ## 1.0 - Sobre a Empresa
@@ -47,14 +47,14 @@ Como resultado da sua consultoria, você precisará entregar um relatório conte
 
 ## 12.0 - Próximos passos
 
-- [] Atualizar o README.md
-- [] EDA
-- [] Relatório de Insights
+- [ ] Atualizar o README.md
+- [ ] EDA
+- [ ] Relatório de Insights
 
 ## 13.0 Referências
 
-[Link para acessar o desafio](https://sejaumdatascientist.com/como-usar-data-science-para-fazer-a-empresa-vender-mais/)
-[Sobre Seguro de carro](https://www.minutoseguros.com.br/blog/como-funciona-seguro-de-carro/)
-[Sobre Seguro saúde](https://www.minutoseguros.com.br/blog/seguro-saude-plano-saude-diferencas/)
+- [Link para acessar o desafio](https://sejaumdatascientist.com/como-usar-data-science-para-fazer-a-empresa-vender-mais/)
+- [Sobre Seguro de carro](https://www.minutoseguros.com.br/blog/como-funciona-seguro-de-carro/)
+- [Sobre Seguro saúde](https://www.minutoseguros.com.br/blog/seguro-saude-plano-saude-diferencas/)
 
 
