@@ -1,6 +1,6 @@
 <h1 align="center"> Empresa Insurance All </h1> 
 
-<img width='400px' align="center" src="https://github.com/brunalimap/health_insurance_cross_sell/blob/master/img/43025.jpg">
+<img align="center" src="https://github.com/brunalimap/health_insurance_cross_sell/blob/master/img/43025.jpg">
 <a href='https://br.freepik.com/vetores/carro'>Carro vetor criado por rawpixel.com - br.freepik.com</a>
 
 ## 1.0 - Sobre a Empresa
