@@ -68,9 +68,9 @@ Minha estratégia para resolver esse desafio foi:
 
 ## 10.0 - Próximos Passos do Projeto 
 
-- [] Atualizar o README.md
-- [] EDA
-- [] Relatório de Insights
+- [ ] Atualizar o README.md
+- [ ] EDA
+- [ ] Relatório de Insights
 
 ## 11.0 Referências
 
