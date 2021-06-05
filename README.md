@@ -34,11 +34,11 @@ Minha estratégia para resolver esse desafio foi:
 - **Etapa 04.** Feature Engineering: Derivar novos atributos com base nas variáveis originais para descrever melhor o fenômeno que será modelado
 - **Etapa 05.** Filtragem de Dados: Filtrar as linhas e selecione as colunas que não contenham informações para modelagem que não correspondam ao escopo
 - **Etapa 06.** Análise Exploratória de Dados: Para esta etapa o objetivo é explorar os dados para entender melhor o impacto das variáveis no aprendizado do modelo e encontrar insights.
-- **Etapa 07.** Preparação dos Dados: Prepare os dados para que os modelos de aprendizados de máquina possam aprender o comportamento específico.
+- **Etapa 07.** Preparação dos Dados: Prepare os dados para que os modelos de aprendizado de máquina possam aprender o comportamento específico.
 - **Etapa 08.** Seleção de Recursos: Seleção dos atributos mais significativos para treinar o modelo.
 - **Etapa 09.** Machine Learning: Treinamento de Machine Learning.
 - **Etapa 10.** Hyperparamenter Fine Tunning: Escolha os melhores valores para cada um dos parâmetros do modelo selecionado na etapa anterior.
-- **Etapa 11.** Interpletação do desempenho do modelo em valores de negócios: converta o desempenho do modelo de aprendizado de máquina em um resultado de negócios.
+- **Etapa 11.** Interpretação do desempenho do modelo em valores de negócios: converta o desempenho do modelo de aprendizado de máquina em um resultado de negócios.
 - **Etapa 10.** Deploy do modelo: Publicar o modelo em um ambiente de nuvem para que outras pessoas ou serviços possam usar os resultados para melhorar a decisão de negócios.
 
 ## 5.0 - O conjunto de dados 
